@@ -804,6 +804,10 @@ namespace startbit {
                 digitaltube.clk = DigitalPin.P14;
                 digitaltube.dio = DigitalPin.P13;
                 break;
+			case startbit_digitaltubePort.port3:
+                digitaltube.clk = DigitalPin.P16;
+                digitaltube.dio = DigitalPin.P15;
+                break;
         }
 
         if ((count < 1) || (count > 5)) count = 4;
