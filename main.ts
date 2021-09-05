@@ -39,13 +39,13 @@ namespace startbit {
         //% block="servo 1"
         Servo1 = 0x01,
         //% block="servo 2"
-        Servo2 = 0x02
+        Servo2 = 0x02,
 	//% block="servo 3"
-        Servo3 = 0x03
+        Servo3 = 0x03,
 	//% block="servo 4"
-        Servo4 = 0x04
+        Servo4 = 0x04,
 	//% block="servo 5"
-        Servo5 = 0x05
+        Servo5 = 0x05,
 	//% block="servo 6"
         Servo6 = 0x06
     }
@@ -54,13 +54,13 @@ namespace startbit {
         //% block="Port 1"
         port1 = 0x01,
         //% block="Port 2"
-        port2 = 0x02
+        port2 = 0x02,
         //% block="Port 3"
-        port3 = 0x03
+        port3 = 0x03,
         //% block="Port 4"
-        port4 = 0x04
+        port4 = 0x04,
         //% block="Port 5"
-        port5 = 0x05
+        port5 = 0x05,
         //% block="Port 6"
         port6 = 0x06
     }
@@ -118,15 +118,15 @@ namespace startbit {
         //% block="Port 1"
         port1,
         //% block="Port 2"
-        port2
+        port2,
 	//% block="Port 3"
-        port3 = 0x03
+        port3,
         //% block="Port 4"
-        port4 = 0x04
+        port4,
         //% block="Port 5"
-        port5 = 0x05
+        port5,
         //% block="Port 6"
-        port6 = 0x06
+        port6
     }
 
     export enum startbit_servorange {
@@ -140,13 +140,13 @@ namespace startbit {
         //% block="Port 1"
         port1 = 0x01,
         //% block="Port 2"
-        port2 = 0x02
+        port2 = 0x02,
 	//% block="Port 3"
-        port3 = 0x03
+        port3 = 0x03,
         //% block="Port 4"
-        port4 = 0x04
+        port4 = 0x04,
         //% block="Port 5"
-        port5 = 0x05
+        port5 = 0x05,
         //% block="Port 6"
         port6 = 0x06
     }
