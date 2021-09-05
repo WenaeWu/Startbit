@@ -118,15 +118,7 @@ namespace startbit {
         //% block="Port 1"
         port1,
         //% block="Port 2"
-        port2,
-	//% block="Port 3"
-        port3,
-        //% block="Port 4"
-        port4,
-        //% block="Port 5"
-        port5,
-        //% block="Port 6"
-        port6
+        port2
     }
 
     export enum startbit_servorange {
