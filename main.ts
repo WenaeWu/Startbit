@@ -805,7 +805,7 @@ namespace startbit {
                 digitaltube.dio = DigitalPin.P13;
                 break;
 			case startbit_digitaltubePort.port3:
-                digitaltube.clk = DigitalPin.P16;
+                digitaltube.clk = DigitalPin.P14;
                 digitaltube.dio = DigitalPin.P15;
                 break;
         }
